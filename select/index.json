@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "XOXO (GAL version)",
+  "base_artist": "LOALO MODELS",
+  "createdAt": "2026-02-25T07:20:00.912242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "XOXO - GAL version",
+      "artist": "LOALO MODELS",
+      "has_synced": false,
+      "path": "select/01_XOXO_-_GAL_version_LOALO_MODELS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "XOXO (GAL version)",
+      "artist": "LOALO MODELS",
+      "has_synced": false,
+      "path": "select/pl_01_XOXO_(GAL_version)_LOALO_MODELS.txt"
+    }
+  ]
+}
